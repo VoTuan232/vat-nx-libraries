@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "random-string": ["packages/random-string/src/index.ts"]
+      "@myorg/is-even": ["packages/is-even/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
