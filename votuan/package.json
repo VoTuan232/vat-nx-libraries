@@ -5,10 +5,11 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@nrwl/devkit": "^15.9.2",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "@nrwl/eslint-plugin-nx": "15.9.2",
+    "@nrwl/eslint-plugin-nx": "^15.9.2",
     "@nrwl/jest": "15.9.2",
     "@nrwl/js": "15.9.2",
     "@nrwl/linter": "15.9.2",
