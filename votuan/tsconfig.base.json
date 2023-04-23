@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@myorg/is-even": ["packages/is-even/src/index.ts"]
+      "@votuan/is-even": ["packages/is-even/src/index.ts"],
+      "@votuan/random-string": ["packages/random-string/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

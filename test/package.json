@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@votuan/is-even": "^0.0.1"
+    "@votuan/is-even": "^0.0.1",
+    "@votuan/random-string": "^0.0.1"
   }
 }

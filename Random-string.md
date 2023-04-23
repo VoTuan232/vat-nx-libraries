@@ -1,0 +1,1 @@
+npx nx generate @nrwl/js:library random-string --publishable --importPath @votuan/random-string

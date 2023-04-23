@@ -1,4 +1,4 @@
-cd myorg/dist/packages/is-even
+cd votuan/dist/packages/is-even
 
 npm publish --access public
 
