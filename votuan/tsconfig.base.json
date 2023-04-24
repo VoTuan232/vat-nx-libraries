@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@votuan/axios": ["packages/axios/src/index.ts"],
       "@votuan/is-even": ["packages/is-even/src/index.ts"],
       "@votuan/random-string": ["packages/random-string/src/index.ts"]
     }
